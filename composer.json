@@ -1,0 +1,24 @@
+{
+    "autoload": {
+      "psr-4": {
+        "ESD\\Helpers\\": "src/"
+      }
+    },
+    "authors": [
+      {
+        "name": "Zhenqiang.Zhang",
+        "email": "565364226@qq.com",
+        "homepage": "https://github.com/brealord"
+      }
+    ],
+    "name": "esd/helpers",
+    "type": "library",
+    "keywords": ["esd", "helpers"],
+    "description": "helpers",
+    "license": "MIT",
+    "require": {
+      "ezyang/htmlpurifier": "^4.10.0",
+      "cebe/markdown": "^1.2.1"
+    }
+  }
+  
